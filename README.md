@@ -35,7 +35,7 @@ Una vez la instalación ha finalizado, se puede acceder a la máquina virtual con
 
     vagrant ssh
 
-o simplement utilizando cualquier cliente ssh con el usuario _vagrant_ y la contraseña _vagrant_.
+o simplement utilizando cualquier cliente ssh contra localhost:2222, con el usuario _vagrant_ y la contraseña _vagrant_.
 
 Si se emplea la VM detrás de un proxy es necesario instalar el plugin proxyconf y descomentar la configuración del proxy en el Vagrantfile.
 
